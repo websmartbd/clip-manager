@@ -1,0 +1,7 @@
+{
+    "uuid": "clip-manager-watcher@websmartbd.local",
+    "name": "Clip Manager Watcher",
+    "description": "Watches the system clipboard (works on GNOME Wayland, unlike an ordinary background app) and forwards new text to the clip-manager daemon over its local socket, so clip-manager's popup and history stay up to date. This extension has no UI of its own.",
+    "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+    "version": 1
+}
